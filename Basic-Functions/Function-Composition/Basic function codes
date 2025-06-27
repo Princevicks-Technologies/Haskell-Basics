@@ -1,0 +1,33 @@
+Function that reduces a number by 2 until it reaches zero
+
+Function that multiplies each element in a list by 3
+
+Function that checks if a number is divisible by 5
+
+Function that returns the maximum of three numbers
+
+Function that counts how many even numbers are in a list
+
+Function that repeats a word n times
+
+Function that filters out numbers greater than 50 from a list
+
+Function that squares a number and adds 1
+
+Function that checks if a string starts with a capital letter
+
+Function that returns the absolute difference between two numbers
+
+Function that takes a list and returns only the first and last element
+
+Function that takes a number and returns a list from that number down to 0
+
+Function that sums only the odd numbers in a list
+
+Function that checks if all elements in a list are positive
+
+Function that applies a given function three times to a number
+
+Function that determines if a year is a leap year
+
+Function that reverses each word in a list of words
