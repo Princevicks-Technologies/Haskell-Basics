@@ -1,1 +1,1 @@
-# Haskell-Basics
+# Haskell-Marathon
